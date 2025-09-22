@@ -1,20 +1,29 @@
-# Welcome to your Expo app 👋
+# mobile-scroll-view
+
+## About
+**Mobile scroll view behavior on android mobile app | Beginner**
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
+### Clone repo
+
+```sh
+git clone https://github.com/0xJonaseb11/mobile-scroll-view.git
+```
+
 1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+```bash
+npx expo start
+```
 
 In the output, you'll find options to open the app in a
 
@@ -48,3 +57,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+-----------
+
+@0xJonaseb11
